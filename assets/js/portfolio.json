@@ -5,7 +5,7 @@
         "pType":"SI",
         "pContribution":"60%",
         "pScope":"관리자전체",
-        "pImage":"/assets/images/logo-labtool.png",
+        "pImage":"./assets/images/logo-labtool.png",
         "pLight":false
     },
     {
@@ -14,7 +14,7 @@
         "pType":"리뉴얼(홈페이지)",
         "pContribution":"100%",
         "pScope":"사용자전체",
-        "pImage":"/assets/images/logo-kbcil.png",
+        "pImage":"./assets/images/logo-kbcil.png",
         "pLight":false
     },
     {
@@ -23,7 +23,7 @@
         "pType":"홈페이지",
         "pContribution":"100%",
         "pScope":"사용자,관리자 전체",
-        "pImage":"/assets/images/logo-nosmembers.png",
+        "pImage":"./assets/images/logo-nosmembers.png",
         "pLight":true
     },
     {
@@ -32,7 +32,7 @@
         "pType":"메일시스템",
         "pContribution":"100%",
         "pScope":"전체",
-        "pImage":"/assets/images/logo-nosmail.png",
+        "pImage":"./assets/images/logo-nosmail.png",
         "pLight":false
     },
     {
@@ -41,7 +41,7 @@
         "pType":"웹앱",
         "pContribution":"80%",
         "pScope":"사용자",
-        "pImage":"/assets/images/logo-petopia.png",
+        "pImage":"./assets/images/logo-petopia.png",
         "pLight":false
     },
     {
@@ -50,7 +50,7 @@
         "pType":"홈페이지",
         "pContribution":"70%",
         "pScope":"공용 레이아웃 및 서브페이지 전체",
-        "pImage":"/assets/images/logo-kima.png",
+        "pImage":"./assets/images/logo-kima.png",
         "pLight":false
     },
     {
@@ -59,7 +59,7 @@
         "pType":"플랫폼",
         "pContribution":"100%",
         "pScope":"사용자전체",
-        "pImage":"/assets/images/logo-poly.png",
+        "pImage":"./assets/images/logo-poly.png",
         "pLight":true
     },
     {
@@ -68,7 +68,7 @@
         "pType":"홈페이지",
         "pContribution":"80%",
         "pScope":"서브페이지 전체",
-        "pImage":"/assets/images/logo-mw.png",
+        "pImage":"./assets/images/logo-mw.png",
         "pLight":false
     },
     {
@@ -77,7 +77,7 @@
         "pType":"홈페이지",
         "pContribution":"100%",
         "pScope":"사용자전체",
-        "pImage":"/assets/images/logo-sc.png",
+        "pImage":"./assets/images/logo-sc.png",
         "pLight":true
     },
     {
@@ -86,7 +86,7 @@
         "pType":"유지보수",
         "pContribution":"100%",
         "pScope":"메인페이지 전체",
-        "pImage":"/assets/images/logo-cmass.png",
+        "pImage":"./assets/images/logo-cmass.png",
         "pLight":false
     },
     {
@@ -99,7 +99,7 @@
         "pType":"유지보수",
         "pContribution":"100%",
         "pScope":"인트로, 메인페이지 전체",
-        "pImage":"/assets/images/logo-kofst.png",
+        "pImage":"./assets/images/logo-kofst.png",
         "pLight":true
     },
     {
@@ -108,7 +108,7 @@
         "pType":"웹접근성 보완",
         "pContribution":"100%",
         "pScope":"퍼블리싱 관련 전체",
-        "pImage":"/assets/images/logo-hec.png",
+        "pImage":"./assets/images/logo-hec.png",
         "pLight":false
     },
     {
@@ -117,7 +117,7 @@
         "pType":"홈페이지",
         "pContribution":"100%",
         "pScope":"사용자 전체",
-        "pImage":"/assets/images/logo-elite.png",
+        "pImage":"./assets/images/logo-elite.png",
         "pLight":false
     },
     {
@@ -126,7 +126,7 @@
         "pType":"홈페이지",
         "pContribution":"100%",
         "pScope":"사용자 전체",
-        "pImage":"/assets/images/logo-nos.png",
+        "pImage":"./assets/images/logo-nos.png",
         "pLight":false
     },
     {
@@ -135,7 +135,7 @@
         "pType":"홈페이지",
         "pContribution":"100%",
         "pScope":"퍼블리싱 관련 전체",
-        "pImage":"/assets/images/logo-ased.png",
+        "pImage":"./assets/images/logo-ased.png",
         "pLight":false
     },
     {
@@ -144,7 +144,7 @@
         "pType":"홈페이지",
         "pContribution":"30%",
         "pScope":"공용 레이아웃 및 메인페이지",
-        "pImage":"/assets/images/logo-quan.png",
+        "pImage":"./assets/images/logo-quan.png",
         "pLight":true
     }
 ]

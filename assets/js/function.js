@@ -111,7 +111,7 @@ function _lnbScroll(){
     }).scroll();
 };
 function _getPortfolioItem(){
-    $.getJSON('/assets/js/portfolio.json', function(k){
+    $.getJSON('./assets/js/portfolio.json', function(k){
         let _items = [];
         let _itemTotal = '';
         let $itemWrap = $('#portfolioList');
