@@ -68,7 +68,7 @@
 @media (max-width:599px){
     .horizontal--layout.responsive .wrap .content .content--title{text-align: center;}
     .horizontal--layout.responsive .wrap .content.content--portfolio .content--inn .circle--item--list{display:block; padding:0 3rem; position: relative;}
-    .horizontal--layout.responsive .wrap .content.content--portfolio .content--inn .circle--item--list .slick-arrow{position: absolute; top:0; bottom:0; width:2.8rem; white-space: nowrap; text-indent: 99999px; background-color:transparent; border:0;}
+    .horizontal--layout.responsive .wrap .content.content--portfolio .content--inn .circle--item--list .slick-arrow{position: absolute; top:0; bottom:0; width:2.8rem; white-space: nowrap; text-indent: 99999px; background-color:transparent; border:0; appearance: none ; -webkit-appearance: none;}
     .horizontal--layout.responsive .wrap .content.content--portfolio .content--inn .circle--item--list .slick-arrow.slick-prev{left:0; transform: rotate(180deg);}
     .horizontal--layout.responsive .wrap .content.content--portfolio .content--inn .circle--item--list .slick-arrow.slick-next{right:0;}
     .horizontal--layout.responsive .wrap .content.content--portfolio .content--inn .circle--item--list .slick-arrow::after{content:''; display:block; position: absolute; left:50%; top:50%; border-top:2px solid; border-right: 2px solid; width:1.5rem; height:1.5rem; transform: translate(-75%,-50%) rotate(45deg);}
