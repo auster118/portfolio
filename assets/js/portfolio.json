@@ -1,0 +1,150 @@
+[
+    {
+        "pName":"명지대공공기기원",
+        "pLocation":["http://labtool.co.kr/"],
+        "pType":"SI",
+        "pContribution":"60%",
+        "pScope":"관리자전체",
+        "pImage":"/assets/images/logo-labtool.png",
+        "pLight":false
+    },
+    {
+        "pName":"강북장애인자립생활센터",
+        "pLocation":["http://www.kbcil.or.kr/"],
+        "pType":"리뉴얼(홈페이지)",
+        "pContribution":"100%",
+        "pScope":"사용자전체",
+        "pImage":"/assets/images/logo-kbcil.png",
+        "pLight":false
+    },
+    {
+        "pName":"NCMS",
+        "pLocation":["https://nosmember.com/"],
+        "pType":"홈페이지",
+        "pContribution":"100%",
+        "pScope":"사용자,관리자 전체",
+        "pImage":"/assets/images/logo-nosmembers.png",
+        "pLight":true
+    },
+    {
+        "pName":"노스메일",
+        "pLocation":["http://mail.nostech.kr/"],
+        "pType":"메일시스템",
+        "pContribution":"100%",
+        "pScope":"전체",
+        "pImage":"/assets/images/logo-nosmail.png",
+        "pLight":false
+    },
+    {
+        "pName":"펫토피아",
+        "pLocation":["https://petopia2020.com/"],
+        "pType":"웹앱",
+        "pContribution":"80%",
+        "pScope":"사용자",
+        "pImage":"/assets/images/logo-petopia.png",
+        "pLight":false
+    },
+    {
+        "pName":"한국국제의료협회",
+        "pLocation":["https://www.koreahealthtour.co.kr/"],
+        "pType":"홈페이지",
+        "pContribution":"70%",
+        "pScope":"공용 레이아웃 및 서브페이지 전체",
+        "pImage":"/assets/images/logo-kima.png",
+        "pLight":false
+    },
+    {
+        "pName":"폴리수프",
+        "pLocation":["https://soup-legacy.azurewebsites.net/Home/Index"],
+        "pType":"플랫폼",
+        "pContribution":"100%",
+        "pScope":"사용자전체",
+        "pImage":"/assets/images/logo-poly.png",
+        "pLight":true
+    },
+    {
+        "pName":"무빙워크",
+        "pLocation":["https://mw-ruplay.com/"],
+        "pType":"홈페이지",
+        "pContribution":"80%",
+        "pScope":"서브페이지 전체",
+        "pImage":"/assets/images/logo-mw.png",
+        "pLight":false
+    },
+    {
+        "pName":"SC컨벤션",
+        "pLocation":["http://www.scconvention.co.kr/"],
+        "pType":"홈페이지",
+        "pContribution":"100%",
+        "pScope":"사용자전체",
+        "pImage":"/assets/images/logo-sc.png",
+        "pLight":true
+    },
+    {
+        "pName":"씨마스 메인페이지 리뉴얼",
+        "pLocation":["https://www.cmass21.co.kr/textbook/main.php"],
+        "pType":"유지보수",
+        "pContribution":"100%",
+        "pScope":"메인페이지 전체",
+        "pImage":"/assets/images/logo-cmass.png",
+        "pLight":false
+    },
+    {
+        "pName":"과·총 메인페이지 리뉴얼",
+        "pLocation":
+            [
+                "https://kofst.or.kr/intro.jsp",
+                "https://www.kofst.or.kr/main.bit?sys_type=0000"
+            ],
+        "pType":"유지보수",
+        "pContribution":"100%",
+        "pScope":"인트로, 메인페이지 전체",
+        "pImage":"/assets/images/logo-kofst.png",
+        "pLight":true
+    },
+    {
+        "pName":"현대엔지니어링 웹접근성 심사",
+        "pLocation":["https://www.hec.co.kr/ko"],
+        "pType":"웹접근성 보완",
+        "pContribution":"100%",
+        "pScope":"퍼블리싱 관련 전체",
+        "pImage":"/assets/images/logo-hec.png",
+        "pLight":false
+    },
+    {
+        "pName":"이라이콤",
+        "pLocation":["http://www.e-litecom.com/"],
+        "pType":"홈페이지",
+        "pContribution":"100%",
+        "pScope":"사용자 전체",
+        "pImage":"/assets/images/logo-elite.png",
+        "pLight":false
+    },
+    {
+        "pName":"N-OS 리뉴얼(미오픈)",
+        "pLocation":["http://nos2021.intermediary.co.kr/"],
+        "pType":"홈페이지",
+        "pContribution":"100%",
+        "pScope":"사용자 전체",
+        "pImage":"/assets/images/logo-nos.png",
+        "pLight":false
+    },
+    {
+        "pName":"동물분류학회",
+        "pLocation":["http://submission.e-ased.org/"],
+        "pType":"홈페이지",
+        "pContribution":"100%",
+        "pScope":"퍼블리싱 관련 전체",
+        "pImage":"/assets/images/logo-ased.png",
+        "pLight":false
+    },
+    {
+        "pName":"콴엔터테인먼트(미오픈)",
+        "pLocation":["http://quanent2022.intermediary.co.kr/"],
+        "pType":"홈페이지",
+        "pContribution":"30%",
+        "pScope":"공용 레이아웃 및 메인페이지",
+        "pImage":"/assets/images/logo-quan.png",
+        "pLight":true
+    }
+]
